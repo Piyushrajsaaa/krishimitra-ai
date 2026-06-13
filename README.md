@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 India loses **₹50,000+ crore annually** due to undetected crop diseases.
 **600M+ farmers** lack timely access to agricultural experts.
@@ -22,19 +22,19 @@ Rural KVKs are understaffed and distant.
 
 ---
 
-## 🚀 Solution
+## Solution
 
 KrishiMitra AI is a **production-grade, multimodal AI system** that:
 
-1. 📸 Accepts a crop leaf photo from any smartphone
-2. 🤖 Detects disease using **EfficientNet-B0** (fine-tuned on PlantVillage)
-3. 📚 Retrieves relevant **ICAR knowledge** via RAG (ChromaDB)
-4. 💬 Generates **farmer-friendly advisory** in English & Hindi
-5. 🔁 Collects feedback for continuous improvement
+1.  Accepts a crop leaf photo from any smartphone
+2.  Detects disease using **EfficientNet-B0** (fine-tuned on PlantVillage)
+3.  Retrieves relevant **ICAR knowledge** via RAG (ChromaDB)
+4.  Generates **farmer-friendly advisory** in English & Hindi
+5.  Collects feedback for continuous improvement
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 Farmer (Mobile/Web)
 
 │
@@ -91,7 +91,7 @@ Farmer (Mobile/Web)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -106,7 +106,7 @@ Farmer (Mobile/Web)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 krishimitra-ai/
 
 ├── app/
@@ -183,7 +183,7 @@ Visit: **http://localhost:8501**
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Run all tests
@@ -193,11 +193,11 @@ pytest tests/ -v
 pytest tests/ --cov=app --cov-report=html
 ```
 
-**Current: 85 tests passing ✅**
+**Current: 85 tests passing **
 
 ---
 
-## 🤖 AI Features
+##  AI Features
 
 | Feature | Details |
 |---|---|
@@ -211,16 +211,16 @@ pytest tests/ --cov=app --cov-report=html
 
 ## 🛡️ Responsible AI
 
-- ✅ Confidence-based escalation to human experts
-- ✅ No PII stored — audit logs are anonymized
-- ✅ Bilingual support for language fairness
-- ✅ Disclaimer on every AI-generated advisory
-- ✅ Full audit trail for every prediction
-- ✅ Graceful fallback when IBM unavailable
+-  Confidence-based escalation to human experts
+-  No PII stored — audit logs are anonymized
+-  Bilingual support for language fairness
+-  Disclaimer on every AI-generated advisory
+-  Full audit trail for every prediction
+-  Graceful fallback when IBM unavailable
 
 ---
 
-## 🌍 SDG Alignment
+##  SDG Alignment
 
 | SDG | How |
 |---|---|
@@ -230,13 +230,13 @@ pytest tests/ --cov=app --cov-report=html
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Piyush**
 1M1B AI for Sustainability Internship (IBM SkillsBuild + AICTE)
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — Free to use for educational and research purposes.
