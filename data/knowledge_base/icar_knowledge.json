@@ -1,0 +1,178 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Tomato Early Blight — Detection and Management",
+    "crop": "tomato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria solani",
+    "content": "Tomato Early Blight is caused by the fungus Alternaria solani. Symptoms include dark brown spots with concentric rings on older leaves, giving a target-board appearance. The disease spreads in warm, humid conditions between 24-29°C. Infected leaves turn yellow and drop prematurely, reducing yield by 20-40%. Management: Remove and destroy infected plant debris. Apply copper-based fungicides like Mancozeb (2g/L) or Chlorothalonil every 7-10 days. Avoid overhead irrigation. Maintain plant spacing of 45-60cm for air circulation. Use certified disease-free seeds. Crop rotation of 2-3 years is recommended.",
+    "recommendations": [
+      "Remove affected leaves immediately and burn them",
+      "Apply Mancozeb 75WP at 2g per litre of water",
+      "Spray every 7-10 days during humid weather",
+      "Avoid wetting foliage during irrigation",
+      "Maintain field hygiene and destroy crop debris"
+    ],
+    "severity_levels": {
+      "mild": "Less than 10% leaf area affected — monitor closely",
+      "moderate": "10-30% affected — apply fungicide immediately",
+      "severe": "More than 30% affected — consult KVK expert"
+    },
+    "source": "ICAR-IARI Technical Bulletin TB-2019-04",
+    "language": "en"
+  },
+  {
+    "id": "doc_002",
+    "title": "Tomato Late Blight — Detection and Management",
+    "crop": "tomato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans",
+    "content": "Tomato Late Blight caused by Phytophthora infestans is one of the most destructive diseases. Water-soaked lesions appear on leaves and stems, turning dark brown with white fungal growth on the underside. The disease spreads rapidly in cool, wet weather (10-20°C) and can destroy an entire crop within days. Management: Apply Metalaxyl-M + Mancozeb (Ridomil Gold) at 2.5g/L. Remove and destroy infected plants immediately. Avoid planting near potato fields. Use resistant varieties like Arka Rakshak. Ensure good drainage in fields.",
+    "recommendations": [
+      "Apply Ridomil Gold MZ 68WG at 2.5g per litre of water",
+      "Spray immediately upon first symptom appearance",
+      "Remove and bury infected plant material",
+      "Avoid planting tomatoes near potatoes",
+      "Improve field drainage to reduce humidity"
+    ],
+    "severity_levels": {
+      "mild": "Few spots on lower leaves — begin preventive spray",
+      "moderate": "Multiple stems affected — intensive fungicide program",
+      "severe": "Widespread infection — contact KVK immediately"
+    },
+    "source": "ICAR-NRCH Advisory 2020",
+    "language": "en"
+  },
+  {
+    "id": "doc_003",
+    "title": "Potato Early Blight — Detection and Management",
+    "crop": "potato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria solani",
+    "content": "Potato Early Blight caused by Alternaria solani appears as dark brown circular spots with concentric rings on lower leaves. The disease is favored by alternating wet and dry periods and temperatures of 20-30°C. It can reduce tuber yield by 20-30%. Management: Use certified seed tubers. Apply Mancozeb 75WP at 2g/L at first sign of infection. Ensure adequate potassium nutrition as it improves resistance. Destroy crop debris after harvest. Maintain 3-year crop rotation.",
+    "recommendations": [
+      "Use certified disease-free seed tubers",
+      "Apply Mancozeb 75WP at 2g per litre of water",
+      "Ensure adequate potassium fertilization",
+      "Practice 3-year crop rotation",
+      "Remove and destroy infected plant debris after harvest"
+    ],
+    "severity_levels": {
+      "mild": "Spots on lower leaves only — apply preventive fungicide",
+      "moderate": "Disease moving to upper leaves — increase spray frequency",
+      "severe": "Defoliation occurring — contact KVK for guidance"
+    },
+    "source": "ICAR-CPRI Technical Bulletin 2021",
+    "language": "en"
+  },
+  {
+    "id": "doc_004",
+    "title": "Potato Late Blight — Detection and Management",
+    "crop": "potato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans",
+    "content": "Potato Late Blight is the most devastating potato disease worldwide. It caused the Irish Famine of 1845. Symptoms include water-soaked lesions on leaves with white powdery growth underneath. Tubers develop reddish-brown rot. The disease spreads explosively in cool, humid conditions. Management: Apply Metalaxyl + Mancozeb (Ridomil) preventively. Remove volunteer potato plants. Use resistant varieties like Kufri Jyoti, Kufri Bahar. Avoid excessive nitrogen fertilization.",
+    "recommendations": [
+      "Apply Metalaxyl 8% + Mancozeb 64% WP at 2.5g per litre",
+      "Begin spraying before disease appears in high-risk weather",
+      "Destroy volunteer potato plants in and around fields",
+      "Use resistant varieties like Kufri Jyoti or Kufri Bahar",
+      "Avoid excessive nitrogen which promotes lush growth"
+    ],
+    "severity_levels": {
+      "mild": "First lesions appearing — start fungicide program immediately",
+      "moderate": "Stem infection visible — intensive treatment required",
+      "severe": "Tuber rot detected — harvest immediately to limit losses"
+    },
+    "source": "ICAR-CPRI Advisory 2022",
+    "language": "en"
+  },
+  {
+    "id": "doc_005",
+    "title": "Healthy Crop Management — Tomato",
+    "crop": "tomato",
+    "disease": "healthy",
+    "pathogen": "none",
+    "content": "A healthy tomato plant has vibrant green leaves, firm stems, and shows no signs of spots, wilting, or discoloration. Preventive management is essential to keep crops healthy. Maintain proper spacing of 45-60cm between plants. Use drip irrigation to keep foliage dry. Apply balanced NPK fertilizer: 120:60:80 kg/ha. Monitor for early signs of pest or disease weekly. Mulching reduces soil splash and prevents soil-borne infection.",
+    "recommendations": [
+      "Maintain plant spacing of 45-60cm for good air circulation",
+      "Use drip irrigation instead of overhead watering",
+      "Apply balanced NPK 120:60:80 kg per hectare",
+      "Inspect plants weekly for early signs of disease",
+      "Apply mulch to prevent soil splash on lower leaves"
+    ],
+    "severity_levels": {
+      "mild": "Plant is healthy — continue preventive measures",
+      "moderate": "N/A",
+      "severe": "N/A"
+    },
+    "source": "ICAR-IARI Vegetable Science Division 2023",
+    "language": "en"
+  },
+  {
+    "id": "doc_006",
+    "title": "Healthy Crop Management — Potato",
+    "crop": "potato",
+    "disease": "healthy",
+    "pathogen": "none",
+    "content": "Healthy potato plants have dark green compound leaves and vigorous upright growth. Key management practices include planting certified seed tubers, maintaining soil pH of 5.5-6.5, and applying 120:60:120 kg NPK/ha. Earthing up at 30 days promotes tuber development. Irrigation at critical stages — stolon initiation and tuber bulking — is essential. Avoid waterlogging as it promotes fungal diseases.",
+    "recommendations": [
+      "Use only certified disease-free seed tubers",
+      "Maintain soil pH between 5.5 and 6.5",
+      "Apply NPK 120:60:120 kg per hectare",
+      "Perform earthing up at 30 days after planting",
+      "Ensure proper drainage to prevent waterlogging"
+    ],
+    "severity_levels": {
+      "mild": "Plant is healthy — continue good agricultural practices",
+      "moderate": "N/A",
+      "severe": "N/A"
+    },
+    "source": "ICAR-CPRI Good Agricultural Practices Guide 2023",
+    "language": "en"
+  },
+  {
+    "id": "doc_007",
+    "title": "टमाटर अगेती अंगमारी — पहचान और प्रबंधन",
+    "crop": "tomato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria solani",
+    "content": "टमाटर की अगेती अंगमारी Alternaria solani कवक से होती है। पुरानी पत्तियों पर गहरे भूरे धब्बे बनते हैं जिनमें गोलाकार छल्ले होते हैं। यह रोग गर्म और नम मौसम में तेजी से फैलता है। प्रबंधन: मैंकोज़ेब 75WP को 2 ग्राम प्रति लीटर पानी में मिलाकर छिड़काव करें। रोगग्रस्त पत्तियों को तोड़कर जला दें। ऊपर से सिंचाई न करें।",
+    "recommendations": [
+      "रोगग्रस्त पत्तियाँ तुरंत तोड़कर जला दें",
+      "मैंकोज़ेब 75WP को 2 ग्राम प्रति लीटर पानी में घोलकर छिड़कें",
+      "हर 7-10 दिन में छिड़काव दोहराएँ",
+      "ऊपर से सिंचाई न करें",
+      "खेत की सफाई रखें"
+    ],
+    "severity_levels": {
+      "mild": "10% से कम पत्तियाँ प्रभावित — निगरानी रखें",
+      "moderate": "10-30% प्रभावित — तुरंत फफूंदनाशक छिड़कें",
+      "severe": "30% से अधिक — KVK विशेषज्ञ से संपर्क करें"
+    },
+    "source": "भारतीय कृषि अनुसंधान परिषद — ICAR-IARI 2019",
+    "language": "hi"
+  },
+  {
+    "id": "doc_008",
+    "title": "आलू पछेती अंगमारी — पहचान और प्रबंधन",
+    "crop": "potato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans",
+    "content": "आलू की पछेती अंगमारी Phytophthora infestans से होती है और यह सबसे विनाशकारी रोग है। पत्तियों पर जलसिक्त धब्बे बनते हैं और नीचे सफेद फफूंद दिखती है। ठंडे और नम मौसम में यह बहुत तेजी से फैलता है। प्रबंधन: रिडोमिल गोल्ड को 2.5 ग्राम प्रति लीटर पानी में मिलाकर छिड़कें। रोगग्रस्त पौधे तुरंत हटाएँ।",
+    "recommendations": [
+      "मेटालेक्सिल + मैंकोज़ेब को 2.5 ग्राम प्रति लीटर में छिड़कें",
+      "रोग के पहले लक्षण दिखते ही छिड़काव शुरू करें",
+      "रोगग्रस्त पौधे खेत से हटाकर दबा दें",
+      "कुफरी ज्योति या कुफरी बहार जैसी रोधी किस्में लगाएँ",
+      "अधिक नाइट्रोजन खाद न डालें"
+    ],
+    "severity_levels": {
+      "mild": "पहले धब्बे दिखें — तुरंत फफूंदनाशक कार्यक्रम शुरू करें",
+      "moderate": "तने में संक्रमण — गहन उपचार जरूरी",
+      "severe": "कंद सड़न — तुरंत KVK से संपर्क करें"
+    },
+    "source": "भारतीय कृषि अनुसंधान परिषद — ICAR-CPRI 2022",
+    "language": "hi"
+  }
+]
