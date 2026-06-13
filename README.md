@@ -142,7 +142,7 @@ krishimitra-ai/
 └── requirements.txt
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Clone & Setup
 ```bash
