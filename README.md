@@ -209,7 +209,7 @@ pytest tests/ --cov=app --cov-report=html
 
 ---
 
-## 🛡️ Responsible AI
+##  Responsible AI
 
 -  Confidence-based escalation to human experts
 -  No PII stored — audit logs are anonymized
@@ -231,12 +231,8 @@ pytest tests/ --cov=app --cov-report=html
 ---
 
 ##  Author
-
-**Piyush**
+**Piyush Raj**
 1M1B AI for Sustainability Internship (IBM SkillsBuild + AICTE)
-
 ---
-
 ##  License
-
-MIT License — Free to use for educational and research purposes.
+Free to use for educational and research purposes.
