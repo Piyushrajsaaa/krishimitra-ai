@@ -1,6 +1,12 @@
 [server]
 headless = true
-port = 8501
+port = 7860
+maxUploadSize = 10
+enableXsrfProtection = false
+enableCORS = false
 
 [runner]
 fastReruns = true
+
+[browser]
+gatherUsageStats = false
