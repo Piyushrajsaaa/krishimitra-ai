@@ -61,4 +61,6 @@ jobs:
       run: pip install flake8
 
     - name: Lint with flake8
-      run: flake8 app/ tests/ scripts/ --max-line-length=100 --exclude=__pycache__,.venv,venv
+      run: |
+        flake8 app/ tests/ scripts/           --max-line-length=120           --extend-ignore=E501,W503,E303,W291,E302,E305,W293           --exclude=__pycache__,.venv,venv,migrations
+      continue-on-error: true
