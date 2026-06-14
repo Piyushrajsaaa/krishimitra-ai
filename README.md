@@ -10,7 +10,10 @@ short_description: AI crop disease detection for Indian farmers | SDG 2
 ---
 
 # 🌱 KrishiMitra AI
+
 > **Your AI farming expert — anytime, anywhere**
+
+🔗 Live Demo: https://huggingface.co/spaces/Pshtech/krishimitra-ai
 
 AI-powered crop disease detection and advisory system for Indian farmers.
 
